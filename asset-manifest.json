@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/winxtreme/static/css/main.f855e6bc.css",
+    "main.js": "/winxtreme/static/js/main.b34fd669.js",
+    "static/js/453.b522c332.chunk.js": "/winxtreme/static/js/453.b522c332.chunk.js",
+    "index.html": "/winxtreme/index.html",
+    "main.f855e6bc.css.map": "/winxtreme/static/css/main.f855e6bc.css.map",
+    "main.b34fd669.js.map": "/winxtreme/static/js/main.b34fd669.js.map",
+    "453.b522c332.chunk.js.map": "/winxtreme/static/js/453.b522c332.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b34fd669.js"
+  ]
+}
