@@ -37,7 +37,7 @@ function App() {
   const checkGuess = () => {
     const num = parseInt(guess);
     if (num === randomNumber) {
-      setMessage("🎉 Congratulations! You guessed it right!");
+      setMessage("🎉 Congratulations! Aap Jit chuke hai 7 crore");
     } else if (num < randomNumber) {
       setMessage("🔽 Too low! Try again.");
     } else {
