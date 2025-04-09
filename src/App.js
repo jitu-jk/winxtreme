@@ -75,7 +75,10 @@ function App() {
         <p className="exciting-text">
           🚀 Exciting things are coming! Stay tuned for something amazing! 🎉
         </p>
-
+<p>
+    
+    Hey come play with us TODAY ONLY - by arjun kumar
+</p>
         {/* Guessing Game */}
         <p>{message}</p>
         <input
