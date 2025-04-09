@@ -73,7 +73,7 @@ function App() {
 
         {/* Exciting Announcement */}
         <p className="exciting-text">
-          🚀 Exciting things are coming! Stay tuned for something amazing! 🎉
+          Welcome to winxtreme...
         </p>
 
         {/* Guessing Game */}
