@@ -77,7 +77,7 @@ function App() {
         </p>
 <p>
     
-    Hey come play with us TODAY ONLY - by arjun kumar
+    Hey come play with us TODAY ONLY - by arjun jitesh
 </p>
         {/* Guessing Game */}
         <p>{message}</p>
